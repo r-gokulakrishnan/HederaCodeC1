@@ -1,0 +1,2 @@
+- Transaction of Id 0.0.9780@1674826930.61159986 status: SUCCESS
+The Scheduled transaction Id is: 0.0.14060

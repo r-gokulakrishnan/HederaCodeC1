@@ -1,0 +1,16 @@
+
+- Created token Id: 0.0.13501
+
+- Serial Id 1 Status:SUCCESS
+
+- Serial Id 2 Status:SUCCESS
+
+- Serial Id 3 Status:SUCCESS
+
+- Serial Id 4 Status:SUCCESS
+
+- Serial Id 5 Status:SUCCESS
+
+- Token association with 0.0.11867's : SUCCESS 
+
+- Transfer of Serial Id 2 to 0.0.11867: SUCCESS

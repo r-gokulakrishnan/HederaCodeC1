@@ -1,0 +1,6 @@
+The new contract ID is  0.0.16673
+The transaction of function1 consensus status is 22
+Transaction Id: 0.0.9780@1674832995.256288490
+//staticInput
+The transaction of function2 consensus status is 22
+Transaction Id: 0.0.9780@1674832999.344657874
